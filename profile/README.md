@@ -1,7 +1,7 @@
 <p align="center"><img src="https://phenix.mindcity-rp.fr/storage/img/GlobalFull.png" alt="Logo"></p>
 
 # HRP
-Cette organisation Github à l'association RP Phenix, sur le serveur Mindcity
+Cette organisation Github est liée à l'association RP Phenix, sur le serveur Mindcity
 
 Le bot, le site web et l’hébergement sont créer et maintenu par ImLacy_, en cas de question, de bug ou de réclamation, merci de la contacter
 
