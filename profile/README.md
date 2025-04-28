@@ -8,7 +8,8 @@ Le bot, le site web et l’hébergement sont créer et maintenu par ImLacy_, en 
 Le bot, le site ou l’hébergement ne sont pas géré ou affilié avec Mindcity
 
 ## ⚠️ Importants
-Les codes source du bot et du site, sont considérés comme étant créé par une personne externe à l'île, un proche de Clara (pour plus d'info, à voir en RP), et maintenu par elle et son proche
+Les codes source du bot et du site, sont considérés comme étant créé par une personne externe à l'île, un proche de Clara (pour plus d'info, à voir en RP), et maintenu par elle et son amie
+
 Les documents et DA sont faits et uploadés en RP par Clara
 
 # RP
